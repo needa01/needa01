@@ -15,7 +15,6 @@ I am dedicated to continuous learning and staying updated with the latest techno
 Feel free to reach out if you have any interesting opportunities or if you'd like to collaborate on a project!
 
 ## My Tech Stack
-<h2 align="center">My Tech Stack</h2>
 <div align="center">
   <h3>Languages</h3>
    <div style="display: flex; justify-content: center;">
